@@ -43,7 +43,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/diabetes-data-exploration.git
+git clone https:https://github.com/abdelqasim/Data-Cleansing-and-Exploration-of-Healthcare-Data-for-Early-Detection-of-Diabetes-Using-Python
 Install the required dependencies:
 bash
 Copy code
@@ -65,3 +65,7 @@ pandas
 NumPy
 matplotlib
 seaborn
+
+Dataset: diabetes.csv
+
+
